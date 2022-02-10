@@ -1,0 +1,25 @@
+The Winter Olympics are now underway and the FBI has been pulling athletes at the Beijing to bring burner phones. That's probably not some packing list for most Olympic games. But the situation in China is unique, a cyber security correspondent, Jenna McLaughlin joins us to talk it digital threat. That might pop up during the game 
+
+today. Jenna. 
+
+Why is the FBI telling people?
+
+So basically the FBI's warning athletes that in China, they should have no expectation of privacy. It's a sophisticated modern surveillance state that has facial recognition video cameras, everywhere, and web traffic is to be monitored. So, if you bring your personal cell phone or connect to the free Wi-Fi, that train is, offering that the FBI says you should expect all of that data to be vulnerable. And for that reason, some countries have already been handing out burner phone to athletes, preemptively. Unofficial Olympics, app called my 2022. Also raised some controversy about privacy, the most of the information that's shared. There is already accessible to Chinese. Are you going to Central database?
+
+So what it comes down to is that these threats to privacy are present for anybody traveling to try to be safe as particularly journalist, given the political environment, and the government's desire to exercise control big events. Like the Olympics face, all kinds of other Digital Press Beyond these individual privacy concerns.
+
+
+ So honestly, it's like a perfect storm for bad guys who want to take advantage of all the Fanfare for their own purposes. First, if cybercriminals launched an attack that prevented live broadcast of events during the pandemic, might be hoping that they'd be desperate enough to pay to avoid embarrassment. There's lots of personal information out there floating on athletes and journalists and activists also might want to draw attention to Human Rights, abuses including the uighur camps in John. A talking point kind of Desperately wants to avoid. I spoke to charity write an analyst in cyber security firm recorded future who's monitoring those activist groups on social media. Listen to this.
+
+ We haven't seen activist in the criminal underground speaking about planned attacks, but there has been quite a lot of activity and social media from certain groups that have an interest in bringing up human rights abuses and issues with the Chinese Communist Party.
+
+
+ Let me ask you about Russia because officially Russia is banned by the Olympic Committee for doping Putin and she put out a statement today. Pledging alignment, your sources think that Russia could see these games is ripe for a cyber-attack.
+
+ So that's a great question, are replenished. They do still compete with not under the banner of Russia in 2018 and South Korea to shut off the entire IP set up during the opening ceremonies and they blamed it on North Korean Riot. The intelligence analyst said, her team thinks the Russians in other states that might be capable of causing destruction. Like around in North Korea, might hesitate this time to launch cyber attacks because Beijing is hosting take Alyssa.
+
+ So it's in their best interest as a friend of China. To not only allow it to go on unrestricted but to help even facilitate that to go wWell
+
+So try not definitely trying to show itself as a global power and that means any cyberpunk or disruption could spoil that image.
+
+ NPR's John McLaughlin are cyber security correspondent thanks a lot thanks so much
